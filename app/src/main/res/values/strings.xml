@@ -1,0 +1,710 @@
+<resources>
+    <string name="app_name">Travel Escort</string>
+    <string name="details">Place To Visit Details</string>
+    <string name="category_precolonial">Pre-colonial</string>
+    <string name="category_colonial">Colonial</string>
+    <string name="category_beaches">Beaches</string>
+    <string name="category_workship">Places of Workship</string>
+    <string name="category_cultural">Cultural</string>
+    <string name="category_parks">Parks,Zoos and stadia</string>
+    <string name="category_museum">Museums</string>
+    <string name="category_buildings">Buildings</string>
+
+    <!-- Text for VISIT category-->
+    <string name="visit_item1_name">Elephant Caves</string>
+    <string name="visit_item1_description">
+        Elephanta Caves are a UNESCO World Heritage Site and a collection of cave temples predominantly
+        dedicated to the Hindu god Shiva.[1][2][3] They are on Elephanta Island, or Gharapuri (literally "the city of caves"),
+        in Mumbai Harbour, 10 kilometres (6.2 mi) east of Mumbai in the Indian state of Mahārāshtra. The island, about 2 kilometres
+        (1.2 mi) west of the Jawaharlal Nehru Port, consists of five Hindu caves and a few Buddhist stupa mounds that
+        date back to the 2nd century BCE,as well as a small group of two Buddhist caves with water tanks.
+        \n \n The Elephanta Caves contain rock cut stone sculptures that show syncretism of Hindu and Buddhist ideas and iconography.
+        The caves are hewn from solid basalt rock. Except for a few exceptions, much of the artwork is defaced and damaged.[10] The main temple\'s
+        orientation as well as the relative location of other temples are placed in a mandala pattern.[2] The carvings narrate Hindu mythologies,
+        with the large monolithic 20 feet (6.1 m) Trimurti Sadashiva (three-faced Shiva), Nataraja (Lord of dance) and Yogishvara (Lord of Yoga)
+        being the most celebrated.
+        \n \n They were named Elefante – which morphed to Elephanta – by the colonial Portuguese when they found elephant statues on it.
+        They established a base on the island, and its soldiers damaged the sculpture and caves. The main cave (Cave 1, or the Great Cave)
+        was a Hindu place of worship until the Portuguese arrived, whereupon the island ceased to be an active place of worship.
+        The earliest attempts to prevent further damage to the caves were started by British India officials in 1909.The monuments were
+        restored in the 1970s.[2] In 1987, the restored Elephanta Caves were designated a UNESCO World Heritage Site.
+        It is currently maintained by the Archaeological Survey of India (ASI).
+    </string>
+    <string name="visit_item1_information">
+        Address: Gharapuri, Maharashtra 400094
+        \nPhone: 022 2204 4040
+        \nUNESCO World Heritage Site inscription: 1987
+        \nInscription: 1987 (11th session)
+        \nUNESCO Site Id: 24
+    </string>
+    <string name="visit_item1_direction" translatable="false">https://www.google.com/maps/dir/19.3221793,72.8594814/elephanta+caves/@19.1195796,72.732977,11z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c5307da3602f:0xf4ab181b1aaef53f!2m2!1d72.9314864!2d18.9633474</string>
+
+    <string name="visit_item2_name">Kanheri Caves</string>
+    <string name="visit_item2_description">
+        \"The Kanheri Caves (Kānherī-guhā) are a group of caves and rock-cut monuments cut into a massive basalt outcrop in the forests of the Sanjay Gandhi National Park,
+        on the former island of Salsette in the western outskirts of Mumbai, India.
+        They contain Buddhist sculptures and relief carvings,
+        paintings and inscriptions, dating from the 1st century CE to the 10th century CE. 
+        Kanheri comes from the Sanskrit Krishnagiri, which means black mountain.
+        \n \n The Island of Salsette, or Shatshashthi, at the head of Bombay harbour, is peculiarly rich in rock-Temples, there being works of this kind at Kanheri, Marol, Mahakali Caves, Magathane, Mandapeshwar Caves, and Jogeshwari Caves.
+        The most extensive series is the group of Buddhist caves at Kanheri, a few miles from Thane, in which are about 109 separate caves, mostly small, however, and architecturally unimportant.\"
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="visit_item2_information">
+        Address: Mumbai, Maharashtra 400101
+        \n \n Phone: 1800 22 9930
+        \n \n Built in: Built between first century BCE and 10th century CE
+    </string>
+    <string name="visit_direction2" translatable="false">
+        "https://www.google.com/maps/dir//kanheri+caves+was+built+in/@19.177431,72.8453624,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3be7b9e6e177d16d:0xf5677ab36922b95f!2m2!1d72.9068504!2d19.2058509"
+    </string>
+
+    <string name="visit_item3_name">Worli Fort</string>
+    <string name="visit_item3_description">
+        \"The Worli Fort is a fort in Worli, Mumbai, India. The fort, often mistakenly referred to as being built by the Portuguese, was built by the British in around 1675. Built on the Worli hill, Worli Fort overlooked the Mahim Bay at a time the city was made up of just seven islands. 
+        It was used as a lookout for enemy ships and pirates.
+        \n \n On the borders of the fort are large cannons made from rock that were once used as weapons to deter enemies entering the territory.
+        Once you are done touring the fort, head to the nearby Golfa Devi temple that is considered to be a popular religious site in Worli.\"
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="visit_item3_information">
+        Address:
+        \n Worli village, near worli, fort, Mumbai, Maharashtra 400030
+        \n \n Opening time:
+        \n Sunday	5am–7pm
+        \n Monday	5am–7pm
+        \n Tuesday  5am-7pm
+        \n Wednesday 5am–7pm
+        \n Thursday	5am–7pm
+        \n Friday	5am–7pm
+        \n Saturday	5am–7pm
+        \n \n Controlled by: British Raj (1675-1947)
+        \n \n Year built: 1675
+        \n \n Owner:  Government of India
+    </string>
+    <string name="visit_direction3" translatable="false">
+        "https://www.google.com/maps/dir//worli+fort+description/@19.0242786,72.7786242,12.85z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3be7ceb03b280171:0x526dd9446adfb620!2m2!1d72.8168!2d19.0237125"
+    </string>
+
+    <string name="visit_item4_name">Mahim Fort</string>
+    <string name="visit_item4_description">
+        \"The Mahim Fort (Marathi: माहीम किल्ला) is a fort in Mahim in Mumbai, Maharashtra state, India.
+        Strategically located in the Mahim Bay, the fort overlooks Worli to the south, Bandra to the north, and Mahim to the east.
+        The origins of the fort are unclear, but it occupies a strategic location that has been frequently contested.
+        The fort is currently in disrepair, suffering from administrative neglect, encroachment of slums, and exposure to tidal erosion.
+        \n \n In 1516, Portuguese commander Dom Joao de Monoy entered the Mahim Creek and defeated the commander of Mahim fort.
+        The fort was the site of frequent skirmishes between the Portuguese and the Ali Shah, a Gujarati ruler, before the island of Mahim was appropriated from Bahadur Shah of Gujarat by the Portuguese in 1534.
+        In 1661, the Portuguese ceded the island of Mahim as dowry to Charles II of England.
+        After the English gained control of the fort, it was strengthened by Sir Thomas Grantham in 1684, and became a strategic watchtower against possible Portuguese attacks, and later from the Marathas.\"
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="visit_item4_information">
+        Address: Al Hussain Cooperative Housing Society, The Mahim Makarand CHS, Mahim West, Mahim, Mumbai, Maharashtra 400016
+        \n \n Opening time: Open 24 Hours
+        \n \n Owner: Government of Maharashtra
+        \n \n Elevation: 1 m (3 ft 3 in)
+        \n \n Website: http://www.maharashtratourism.gov.in/treasures/fort/mahim-fort
+
+    </string>
+    <string name="visit_direction4" translatable="false">
+        "https://www.google.com/maps/dir//mahim+fort/@19.0448957,72.7917145,12.53z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3be7c93193103067:0xe7cfbb354cf35ee5!2m2!1d72.8381867!2d19.0420375"
+    </string>
+
+
+    <!-- Text for Colonial category-->
+    <string name="shop_item1_name">Chhatrapati Shivaji Maharaj Terminus</string>
+    <string name="shop_item1_description">
+        This famous landmark which has become a symbol of the city, was built as the headquarters of the Great Indian Peninsular Railway.
+        The railway station was built to replace the Bori Bunder railway station, in the Bori Bunder area of Bombay,
+        a prominent port and warehouse area known for its imports and exports. Since Bombay became a major port city at the time,
+        a bigger station was built to meet its demands, and was named Victoria Terminus, after the then reigning Empress of India, Queen Victoria.
+        The station was designed by Frederick William Stevens, a British born engineer architect, attached to the Bombay office of the Indian colonial
+        Public Works Department. Work began in 1878. He received ₹1,614,000 (US$23,000) as the payment for his services. Stevens earned the commission
+        to construct the station after a masterpiece watercolour sketch by draughtsman Axel Haig.
+        \n \n The design has been compared to George Gilbert Scott\'s 1873 St Pancras railway station in London,
+        also in an exuberant Italian Gothic style, but it is far closer to  Scott\'s second prize winning entry for Berlin\'s parliament building,
+        exhibited in London in 1875, which featured numerous towers and turrets, and a large central ribbed dome. The style of the station is also
+        similar to other public buildings of the 1870s in Bombay, such as the Elphinstone College but especially the buildings of Bombay University,
+        also designed by G G Scott.
+        \n \n The station took ten years to complete, the longest for any building of that era in Bombay.
+    </string>
+    <string name="shop_item1_information">
+        Address: Dhobi Talao, Chhatrapati Shivaji Terminus Area, Fort, Mumbai, Maharashtra 400001.
+        \n \n Former names: Victoria Terminus; Bori Bunder Railway Station
+        \n \n Architectural style: Indo-Saracenic architecture
+        \n \n Architects: Frederick William Stevens, Axel Haig
+    </string>
+    <string name="shop_direction1" translatable="false">
+        "https://www.google.com/maps/dir//chhatrapati+shivaji+maharaj+terminus/@18.9410245,72.7630812,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3be7d1d8d493ed49:0x8cb53cf1b3a04e02!2m2!1d72.8331217!2d18.9410376"
+    </string>
+
+    <string name="shop_item2_name">BMC Headquarters</string>
+    <string name="shop_item2_description">
+        \"The Municipal Corporation Building, Mumbai, located in South Mumbai, Maharashtra, India is a Grade IIA heritage building opposite to the Chhatrapati Shivaji Terminus (a UNESCO World heritage site) at the junction of Dadabhai Naoroji Road and Mahapalika Marg.
+        It is also known as the BrihanMumbai Municipal Corporation Building, or BMC building for short.
+        As the name suggests, the ‘V’ shaped building houses the civic body that governs the city of Mumbai, the Municipal Corporation of Greater Mumbai.
+        It is said to be the largest civic organization in India as well as in Asia covering an area of 434 km2 (167.6 sq mi).
+        \n \n The MCGM was created in 1865 and Arthur Crawford was its first Municipal Commissioner.
+        The Municipality was initially housed in a modest building at the terminus of Girgaum Road.
+        In 1870, it was shifted to a building on the Esplanade, located between Watson Hotel and the Sassoon Mechanics Institute where the present Army and Navy building is situated.
+        On 9 December 1884, the foundation stone for the new building of the Bombay Municipal Corporation was laid opposite to Victoria Terminus (now Chhatrapati Shivaji Terminus), by the Viceroy of the time, Lord Ripon.\"
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="shop_item2_information">
+        Address: 5, Mahapalika Marg, Dhobi Talao, Chhatrapati Shivaji Terminus Area, Fort, Mumbai, Maharashtra 400001
+        \n \n Opening time: Sunday	Closed
+        \n Monday	10am–6pm
+        \n Tuesday   10am–6pm
+        \n Wednesday 10am–6pm
+        \n Thursday	10am–6pm
+        \n Friday	10am–6pm
+        \n Saturday	Closed
+        \n \n Architectural style: Gothic architecture
+        \n \n Construction started: 9 December 1884
+        \n \n Architect: Frederick William Stevens
+    </string>
+    <string name="shop_direction2" translatable="false">
+        "https://www.google.com/maps/dir//bmc+headquarters/@18.9392632,72.7685968,12.14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3be7d1d8d11d45f7:0xca1a53516b2bf9f6!2m2!1d72.834503!2d18.9403642"
+    </string>
+
+    <string name="shop_item3_name">Hutatma Chowk</string>
+    <string name="shop_item3_description">
+        \"Hutatma Chowk ("Martyrs' Square") is a square in South Mumbai, Maharashtra, India.
+        The square hosts Flora Fountain and was known by that name until 1961 when it was officially renamed in memory of the members of Samyukta Maharashtra Samiti, who lost their lives when police fired upon their peaceful demonstration in 1956.
+        A statue of a "Martyr with a Flame" stands next to Flora Fountain.
+        \n \n Hutatma Chowk is located in the busy financial district of Fort.
+        It derives its present name from an incident in 1956 when a peaceful demonstration by the Samyukta Maharashtra Samiti (United Maharashtra Committee) was fired upon by the police resulting in 106 deaths.
+        The incident was part of ongoing struggles of the Samyukta Maharashtra Samiti, amongst others, for the creation of the State of Maharashtra.
+        The shooting proved to be a major impetus for the creation of Maharashtra on 1 May 1960."\
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="shop_item3_information">
+        Address: Hutatma Chowk, Azad Maidan, Fort, Mumbai, Maharashtra 400001, India
+    </string>
+    <string name="shop_direction3" translatable="false">
+        "https://www.google.com/maps/place/Hutatma+Chowk,+Mahatma+Gandhi+Road,+Kala+Ghoda,+Fort,+Mumbai,+Maharashtra+400001/@18.9326692,72.8140889,14z/data=!3m1!4b1!4m5!3m4!1s0x3be7d1dcdd4c8f9b:0x3ff0865022f1e06d!8m2!3d18.9326704!4d72.8315985"
+    </string>
+
+    <string name="shop_item4_name">Worli Fort</string>
+    <string name="shop_item4_description">
+        \"The Worli Fort is a fort in Worli, Mumbai, India. The fort, often mistakenly referred to as being built by the Portuguese, was built by the British in around 1675. Built on the Worli hill, Worli Fort overlooked the Mahim Bay at a time the city was made up of just seven islands.
+        It was used as a lookout for enemy ships and pirates.
+        \n \n On the borders of the fort are large cannons made from rock that were once used as weapons to deter enemies entering the territory.
+        Once you are done touring the fort, head to the nearby Golfa Devi temple that is considered to be a popular religious site in Worli.\"
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="shop_item4_information">
+        Address:
+        \n Worli village, near worli, fort, Mumbai, Maharashtra 400030
+        \n \n Opening time:
+        \n Sunday	5am–7pm
+        \n Monday	5am–7pm
+        \n Tuesday  5am-7pm
+        \n Wednesday 5am–7pm
+        \n Thursday	5am–7pm
+        \n Friday	5am–7pm
+        \n Saturday	5am–7pm
+        \n \n Controlled by: British Raj (1675-1947)
+        \n \n Year built: 1675
+        \n \n Owner:  Government of India
+    </string>
+    <string name="shop_direction4" translatable="false">
+        "https://www.google.com/maps/dir//worli+fort+description/@19.0242786,72.7786242,12.85z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3be7ceb03b280171:0x526dd9446adfb620!2m2!1d72.8168!2d19.0237125"
+    </string>
+
+    <string name="shop_item5_name">David sassoon library</string>
+    <string name="shop_item5_description">
+        "The David Sassoon Library and Reading Room is a famous library and heritage structure in Mumbai, India.
+        The idea for a library to be situated in the center of the city came from Albert Sassoon, son of the famous Baghdadi Jewish philanthropist, David Sassoon.
+        The building was designed by architects J. Campbell and G. E. Gosling, for the Scott McClelland and Company, at a cost of Rs. 125,000. David Sassoon donated Rs. 60,000, while the rest of the cost was borne by the Government of Bombay Presidency.
+        The library is located on Rampart Row, looking across the Kala Ghoda.
+        \n \n The European employees working in the Government Mint and the Dockyard in Mumbai started the Mechanics' Institution in 1847 to provide technical education to adults and to hold lectures.
+        They worked out of rented premises until they moved to their own building thanks to the generosity of Sir David Sassoon.
+        The building was called the David Sassoon Library and Reading Room.\"
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="shop_item5_information">
+        Address: 152, Mahatma Gandhi Road, Off David Sassoon, Library Marg, opposite Jehangir Art Gallery, Kala Ghoda, Fort, Mumbai, Maharashtra 400001
+        \n \n Phone:  022 2281 5189
+        \n \n Opening time: 9am to 8pm
+        \n \n Official website: https://davidsassoonlibrary.com/
+        \n \n Opened: 1870
+        \n \n Function: Library
+    </string>
+    <string name="shop_direction5" translatable="false">
+        "https://www.google.com/maps/dir//david+sassoon+library/@18.9277282,72.7610977,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3be7d1d998b45a1f:0xb5407002be39b5a1!2m2!1d72.8311382!2d18.9277413"
+    </string>
+
+    <string name="shop_item6_name">Gateway of India</string>
+    <string name="shop_item6_description">
+        \"The Gateway of India is an arch-monument built in the early twentieth century in the city of Mumbai, in the Indian state of Maharashtra.
+        It was erected to commemorate the landing in December 1911 at Apollo Bunder, Mumbai of King-Emperor George V and Queen-Empress Mary, the first British monarch to visit India.
+        \n \n The gateway was built to commemorate the arrival of George V, Emperor of India and Mary of Teck, Empress consort, in India at Apollo Bunder, Mumbai (then Bombay) on 2 December 1911 prior to the Delhi Durbar of 1911; it was the first visit of a British monarch to India.
+        However, they only got to see a cardboard model of the monument,[A] as construction did not begin until 1915.\"
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="shop_item6_information">
+        Address: Address: Apollo Bandar, Colaba, Mumbai, Maharashtra 400001
+        \n \n Architecture firm: Gammon India
+        \n \n Construction started: 31 March 1913
+        \n \n Architect: George Wittet
+        \n \n Website: https://mumbaicity.gov.in/tourist-place/gateway-of-india/
+    </string>
+    <string name="shop_direction6" translatable="false">
+        "https://www.google.com/maps/dir//gateway+of+india/@18.8778953,72.7307209,10.63z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3be7d1c73a0d5cad:0xc70a25a7209c733c!2m2!1d72.8346543!2d18.9219841+"
+    </string>
+
+    <string name="shop_item7_name">Rajbai Tower</string>
+    <string name="shop_item7_description">
+        \"The Rajabai Tower is a clock tower in South Mumbai India.
+        It is located in the confines of the Fort campus of the University of Mumbai.
+        It stands at a height of 85 m.
+        The tower is part of The Victorian and Art Deco Ensemble of Mumbai, which was added to the list of World Heritage Sites in 2018.
+        \n \n The Rajabai Clock Tower was designed by Sir George Gilbert Scott, an English architect.
+        He modeled it on Big Ben in London.
+        The foundation stone was laid on 1 March 1869 and construction was completed in November 1878.
+        The total cost of construction came to ₹550,000, a large amount of money for the time period.
+        A portion of the total cost of construction was donated by Premchand Roychand, a prosperous broker who founded the Bombay Stock Exchange on the condition that the tower be named after his mother Rajabai.\"
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="shop_item7_information">
+        Located in: University of Mumbai Fort Campus
+        \n \n Address: Karmaveer Bhaurao Patil Marg, Mantralaya, Fort, Mumbai, Maharashtra 400032
+        \n \n Construction started: 1 March 1869
+        \n \n Architectural style: Gothic architecture
+        \n \n Architect: George Gilbert Scott
+    </string>
+    <string name="shop_direction7" translatable="false">
+        "https://www.google.com/maps/dir//rajabai+tower/@19.0031151,72.8524456,11.36z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3be7d1c2dd3082b3:0x15db02833bd8cc03!2m2!1d72.830083!2d18.9297669"
+    </string>
+
+    <string name="shop_item8_name">Mount Mary\'s Chruch</string>
+    <string name="shop_item8_description">
+        \"The Basilica of Our Lady of the Mount, more commonly known as Mount Mary Church, is a Roman Catholic Basilica located in Bandra, Mumbai.
+        The feast of the Blessed Virgin Mary is celebrated here on the first Sunday after 8 September, the birthday of the Virgin Mary.
+        The feast is followed by a week-long celebration known locally as the Bandra Fair and is visited by thousands of people.
+        \n \n The basilica stands on a hillock, about 80 metres above sea level overlooking the Arabian Sea.
+        It draws lakhs of devotees and pilgrims annually.
+        Many of the faithful attest to the miraculous powers of the Blessed Virgin Mary.
+        The shrine attracts people from all faiths who pray to the Virgin Mary for expressing their gratitude or requesting favours.
+        The church was destroyed in 1738 during a raid by the Marathas.\"
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="shop_item8_information">
+        Address: Mt Mary Rd, near Shanti Avedna Sadan, Mount Mary, Bandra West, Mumbai, Maharashtra 400050
+        \n \n Opened: 1760
+        \n \n Architectural style: Gothic Revival architecture
+        \n \n Status: Basilicas in the Catholic Church
+        \n \n Official website: http://www.mountmarybasilicabandra.in/
+    </string>
+    <string name="shop_direction8" translatable="false">
+        "https://www.google.com/maps/dir//mount+mary+church/@19.174669,72.7124732,11z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3be7c9409a609d75:0xd0a71c45e7557bfa!2m2!1d72.8224747!2d19.0465581"
+    </string>
+
+
+    <!-- Text for Beaches category-->
+    <string name="fun_item1_name">Aksa Beach</string>
+    <string name="fun_item1_description">
+        \"Aksa Beach is a popular beach and a vacation spot in Aksa village in Malad, Mumbai, India. It is situated close to Marvé Beach.
+        It is a popular weekend destination.
+        It is dotted with many private cottages and hotels, some of which are rented out to tourists and visitors.
+        Aksa beach also happens to be one of the cleanest beaches in the city.\"
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="fun_item1_information">
+        Address: Aksa Village, Malad West, Mumbai, India
+        \n \n Area code: 022
+        \n \n District: Mumbai Suburban
+    </string>
+    <string name="fun_direction1" translatable="false">
+        "https://www.google.com/maps/dir//aksa+beach+mumbai/@19.1816333,72.7814982,12.8z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3be7b42e695a7097:0x48523c8334d8edf7!2m2!1d72.7953513!2d19.1759612"
+    </string>
+
+    <string name="fun_item2_name">Juhu Beach</string>
+    <string name="fun_item2_description">
+        \"Juhu is an upmarket neighbourhood of Mumbai. It is most famous for the sprawling Juhu Beach.
+        It is surrounded by the Arabian Sea to the west, Versova to the north, Santacruz and Vile Parle to the east and Khar to the south.
+        Juhu is among the most affluent areas of the city and home to many Bollywood celebrities.
+        The nearest railway stations are Santacruz, Andheri and Vile Parle on the Western Line and Harbour Line of the Mumbai Suburban Railway.
+        The nearest metro station is Versova.
+        There are two minor B.E.S.T bus depots in Juhu.
+        \n \n Juhu Beach is located on the shores of the Arabian Sea.
+        It stretches for six kilometres up to Versova.
+        The short, rocky formations make up the Juhu Beach unlike the Marina Beach in Chennai that is primarily sandy.
+        It is a popular tourist attraction throughout the year and is also a sought after destination for shooting films.
+        The beach generally gets more crowded on weekends and public holidays.\"
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="fun_item2_information">
+        Address: Juhu Beach, Juhu Tara Rd, Juhu, Mumbai, Maharashtra, India
+        \n \n Area code: 022
+        \n \n District: Mumbai Suburban
+        \n \n City: Mumbai
+    </string>
+    <string name="fun_direction2" translatable="false">
+        "https://www.google.com/maps/dir//Juhu+Beach,+Mumbai,+Maharashtra/@19.0969972,72.8167124,15.18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3be7c994afbc6de9:0xd36760e4a1a77177!2m2!1d72.8264476!2d19.0974187"
+    </string>
+
+    <string name="fun_item3_name">Versova Beach</string>
+    <string name="fun_item3_description">
+        \"Versova Beach is one of the most beautiful beaches in Mumbai with white and black dry sand and a few rocky patches.
+        Located northwards from the famous Juhu Beach, it is considered to be one of the cleanest beaches with a peaceful and calm environment.
+        This beach is regarded as an extension of Juhu with a creek that separates both these diverse worlds.
+        Versova Beach is immensely popular for its colorful fishing boats, swimmable water, and breathtaking views of the sunset and sunrise.
+        \n \n This beach is relatively smaller than the other beaches of Mumbai, but humongous fish auctions are held daily at this spot.
+        Among the most alluring scenes of this beach is in the morning when the fishermen armed with lines and fishing nets barge into the vast sea to catch fish.\"
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="fun_item3_information">
+        Address: North of Juhu Beach, Greater Mumbai
+        \n \n How to reach: Hire an auto or board a bus from Andheri Bus Station to reach Versova Beach
+    </string>
+    <string name="fun_direction3" translatable="false">
+        "https://www.google.com/maps/dir//versova+beach/@19.1346414,72.7704791,12.64z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3be7b60834079447:0xad321dc4567450a0!2m2!1d72.8034487!2d19.1405831"
+    </string>
+
+    <!-- Text for Workship category-->
+    <string name="eat_item1_name">Babulnath Temple</string>
+    <string name="eat_item1_description">
+        \"Babulnath Temple is an ancient Shiva temple in Mumbai, India.
+        One of the most ancient temples in India, Babulnath Temple, is located on the south Malabar Hills at the end of Marine Drive.
+        The temple is dedicated to deity Shiva, who is worshipped in the form of a Babul Tree.
+        Built in 1780, a tall tower was later added to the artistically built temple.
+        The Shiva Linga inside the Babulnath Temple is believed to be as old as the 12th century.
+        There are idols of Goddess Parvati, Lord Ganesha and Lord Hanuman that are worshipped along with the Shiva Linga.
+        The temple stands at an altitude of 1,000 feet, looking across the Arabian Sea.
+        Situated on a small hillock near Girgaum Chowpatty, it is one of oldest temples in the city, Shiva in the form of the Lord of the Babul tree is the main deity in this temple.\"
+        \n \n (Copyright text: Wikipedia)
+    </string>
+    <string name="eat_item1_information">
+        Address: 16, Near, Babulnath Rd, Chowpatty, Mumbai, Maharashtra 400004
+        \n \n Hours: 7:30am to 7:30pm
+        \n \n Phone: 022 2367 8367
+        \n \n Official website: http://www.babulnath.com/
+    </string>
+    <string name="eat_direction1" translatable="false">
+        "https://www.google.com/maps/dir//babulnath+temple/@18.9616454,72.7965165,12.3z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3be7cf2e129ce79b:0x5de3b58f5cbadb87!2m2!1d72.8085141!2d18.9588721"
+    </string>
+
+    <string name="eat_item2_name">Haji Ali</string>
+    <string name="eat_item2_description">
+        \"The Haji Ali Dargah was constructed in 1431 in memory of a wealthy Muslim merchant, Sayyed Pir Haji Ali Shah Bukhari, who gave up all his worldly possessions before making a pilgrimage to Mecca.
+        Hailing from Bukhara, in present-day Uzbekistan, Bukhari travelled around the world in the early to mid 15th century, and eventually settled in present-day Mumbai.
+        \n \n The Dargah is built on a tiny islet located 500 meters from the coast, in the middle of Worli Bay in the vicinity of Worli.
+        The edifice is a brilliant specimen of the Indo-Islamic style of architecture.
+        The islet is linked to the city precinct of Mahalakshmi by a narrow causeway, which is nearly a kilometre (0.62 mile) long.\"
+        \n \n (Copyright text: jw-webmagazine.com / image: tofugu.com)
+    </string>
+    <string name="eat_item2_information">
+        Address: Dargah Rd, Haji Ali, Mumbai, Maharashtra 400026
+        \n \n Opened: 1431
+        \n \n Height: 26 m
+        \n \n Owner: Government of Maharashtra
+        \n \n Architectural styles: Indo-Islamic architecture, Modern architecture
+        \n \n Website: http://www.hajialidargah.in/
+    </string>
+    <string name="eat_direction2" translatable="false">
+        "https://www.google.com/maps/dir//haji+ali+dargah/@19.040394,72.790695,11.71z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3be7ce7e930d42e3:0xd5e05dc7ab078d05!2m2!1d72.8090924!2d18.9836254"
+    </string>
+
+    <string name="eat_item3_name">Mumba Devi</string>
+    <string name="eat_item3_description">
+        "Mumba Devi Mandir is an old temple in the city of Mumbai, Maharashtra, India dedicated to the goddess Mumbā, the local incarnation of the Devi (Mother Goddess).
+        The Marathi मुंबा derives from Sanskrit. Mumba Devi is the goddess of the city of Mumbai. The name Mumbai is derived from Mumba Devi.
+        While Hindu sects devoted to the goddess Mumbadevi are attested to as far back as the 15th century, it is said that the temple was built in 1675 near the main landing site of the former Bori Bunder creek against the north wall of the English Fort Saint George by a Hindu woman also named Mumba.
+        \n \n The creek and fort are now deteriorated to a point at which they are but derelict reminders of the city's past.
+        The temple, on the other hand, is still active.\"
+        \n \n (Copyright text: Wikipedia)</string>
+    <string name="eat_item3_information">
+        Address: Mumbadevi Area, Bhuleshwar, Mumbai, Maharashtra 400002
+        \n \n Deity: Mumbadevi Maha Amba Devi
+        \n \n District: Mumbai
+        \n \n Completed: 1635
+    </string>
+    <string name="eat_direction3" translatable="false">
+        "https://www.google.com/maps/dir//mumba+devi/@18.9522201,72.7919921,10.91z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3be7cfecc763321b:0x9853129a582225b2!2m2!1d72.8306738!2d18.951936"
+    </string>
+
+    <string name="eat_item4_name">Mahim Chruch </string>
+    <string name="eat_item4_description">
+        "St. Michael\'s Church is one of the oldest Catholic churches in Mumbai. The church is situated in Mahim, located at the intersection of L.J. Road and Mahim Causeway.
+        The church was originally built by the Portuguese in 1534. Initially known as San Miguel, it is the oldest Portuguese Franciscan church in Mumbai.
+        \n \n The original St. Michael's Church is believed to have been built in the early 16th century by a church builder called Antonio do Porto.
+        It is said that during this time, the church was located on the banks of the Mandav and served as a convent.\"
+        \n \n (Copyright text: Wikipedia)
+    </string>
+    <string name="eat_item4_information">
+        Address: Lady Jamshedji Road, Mahim West, Mumbai Maharashtra 400016
+        \n \n Priest in charge: Fr. Lancy Pinto
+        \n \n Priest(s): Fr. Ashwin Castellino
+        \n \n Assistant priest(s): Fr. Simon Borges, Fr. Bento Cardozo, Fr. Yeshuraj
+        \n \n Status: Parish church
+        \n \n Website: https://www.stmichaelsmahim.com/
+        </string>
+    <string name="eat_direction4" translatable="false">
+        "https://www.google.com/maps/dir//mahim+church/@19.0354986,72.8338872,13.56z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3be7c92e17100001:0x8ba96c0925b39f32!2m2!1d72.8407732!2d19.0427807"
+    </string>
+
+    <string name="eat_item5_name">Siddhivinayak</string>
+    <string name="eat_item5_description">
+        \"The Shree Siddhivinayak Ganapati Mandir is a Hindu temple dedicated to Lord Shri Ganesh. It is located in Prabhadevi, Mumbai, Maharashtra, India.
+        It was originally built by Laxman Vithu and Deubai Patil on 19 November 1801. It is one of the richest temples in India.
+        \n \n It was constructed on 19 November 1801.
+        The original structure of the Siddhivinayak Temple was a small 3.6 metre x 3.6 metre square brick structure with a dome-shaped brick shikhara.\"
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="eat_item5_information">
+        Address: Address: SK Bole Marg, Prabhadevi, Mumbai, Maharashtra 400028
+        \n \n Phone: 022 2422 4438
+        \n \n Deity: Ganesha
+        \n \n District: Mumbai
+        \n \n Completed: 19 November 1801
+        \n \n Website: https://www.siddhivinayak.org/
+    </string>
+    <string name="eat_direction5" translatable="false">
+        "https://www.google.com/maps/dir//siddhivinayak+temple/@19.0114696,72.8120998,12.95z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3be7cec0d851ebc3:0xcc61876914526329!2m2!1d72.8302491!2d19.0168159"
+    </string>
+
+    <!-- Text for Cultural category-->
+    <string name="cultural_item1_name">Jahangir Art Gallery</string>
+    <string name="cultural_item1_description">
+        "Jehangir Art Gallery is an art gallery in Mumbai.
+        It was founded by Sir Cowasji Jehangir at the urging of K. K. Hebbar and Homi Bhabha.
+        It was built in 1952.
+        Managed by the Committee of Management, the entire cost of this mansion was donated by Cowasji Jehangir.
+        \n \n Established in 1952, the Jehangir Art Gallery is a prime exhibition space that houses many art masterpieces.
+        An important centre for contemporary artists, this modern art gallery takes pride in discovering new talent in India.
+        It is located in the Kala Ghoda neighbourhood of south Mumbai, which is the throbbing nerve centre of the art scene in the city\"
+        \n \n (Copyright text: Wikipedia)
+    </string>
+    <string name="cultural_item1_information">
+        Address: Address: 161B, Mahatma Gandhi Road, Kala Ghoda, Fort, Mumbai, Maharashtra 400001
+        \n \n Opened: 1952
+        \n \n Phone: 022 2284 3989
+        \n \n Hours: 11am-7pm
+        \n \n Website: www.jehangirartgallery.com
+    </string>
+    <string name="cultural_direction1" translatable="false">
+        "https://www.google.com/maps/dir//jehangir+art+gallery/@18.9114415,72.8537191,11.48z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3be7d1c3ba603009:0x760bf8abce5639f6!2m2!1d72.8316856!2d18.9273983"
+    </string>
+
+    <string name="cultural_item2_name">Taraporevala Aquarium</string>
+    <string name="cultural_item2_description">
+        \"Taraporewala Aquarium or Taraporevala Aquarium is India\'s oldest aquarium and one of the city\'s main attractions.
+        It hosts marine and freshwater fishes.
+        \n \n The aquarium is located on Marine Drive in Mumbai.
+        \n \n 2,000 fishes of over 400 species and has been renovated at a cost of Rs.22 crore (approx Rs 7.5 crore for aquariums and Rs. 16.5 crore for construction work done by Public Works department).
+        The exotic fish from overseas has been introduced at the new aquarium the number of new varieties of marine fish at 70.
+        Helicopter,Arowana,Grouper,yellow-striped tang, blue-spotted stingray, star, clown, hark, trigger, Grouper, Moorish idol, Azure Damsel, Blueline Demoiselle, Purple Firefish, Cloudy Damsel, Copperband Butterflyfish, Schooling Bannerfish, Raccoon Butterflyfish, White Tail Trigger, Clown Triggerfish and Blue Ribbon Eel.\"
+        \n \n (Copyright text: Wikipedia)
+    </string>
+    <string name="cultural_item2_information">
+        Address: Address: Netaji Subhash Chandra Bose Road, Marine Drive, near Charni Road, Railway Station, Mumbai, Maharashtra 400002
+        \n \n Opened: 1951
+        \n \n Volume of largest tank: 22,000
+        \n \n No. of species: 400
+        \n \n Phone: 022 2282 1239
+        \n \n Website: https://www.maharashtratourism.gov.in/treasures/museum/taraporewala-aquarium
+    </string>
+    <string name="cultural_direction2" translatable="false">
+        "https://www.google.com/maps/dir//taraporewala+aquarium/@18.943375,72.8094796,11.26z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3be7ce1bbc806f01:0x2ec42768fb318cb7!2m2!1d72.8200302!2d18.9492588"
+    </string>
+
+    <string name="cultural_item3_name">Marine Drive</string>
+    <string name="cultural_item3_description">
+        \"Marine Drive is a 3.6-kilometre-long Promenade along the Netaji Subhash Chandra Bose Road in Mumbai, India.
+        Often, the names Marine Drive and Mareens are used interchangeably to refer to this 3.9km stretch.
+        The road and promenade were constructed by late philanthropist Bhagojisheth Keer and Pallonji Mistry.
+        \n \n Marine Drive is located at a distance of 22.3 kilometers from Chhatrapati Shivaji International Airport.
+        Upon reaching Mumbai Airport, you can either take a local train or taxi to reach your destination.
+        If you board a train, it would take you about an hour to reach Marine Line railway station, from where you can reach your destination by auto or cab.
+        However, if you take a taxi, you can reach Marine Drive in 20 minutes.\"
+        \n \n (Copyright text: Wikipedia)
+    </string>
+    <string name="cultural_item3_information">
+        Address: South Mumbai
+        \n \n Length: 3.6km
+    </string>
+    <string name="cultural_direction3" translatable="false">
+        "https://www.google.com/maps/dir//Marine+Dr,+Mumbai/@18.9432141,72.8206139,17.09z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3be7d1e25ee8439d:0x5acd924f2726ad2b!2m2!1d72.8229996!2d18.9432135"
+    </string>
+
+    <!-- Text for Parks category-->
+    <string name="parks_item1_name">Essel World </string>
+    <string name="parks_item1_description">
+        "Essel World was built in 1986 by Subhash Chandra of the Essel Group. Most tourists, who visit Mumbai, always make it a point to visit this magical place.
+        Situated in the Gorai Island, Essel World is the biggest and one of the first amusement parks in India.
+        This amusement park is popular for its colossal infrastructure and several exciting dry and wet rides.
+        Among all the fun activities that can be enjoyed, the ice skating ring, discotheque and bowling alley serve as the prime attractions for people.
+        \n \n The park has several rides that cater to all age groups. A perfect destination for all, this place attracts almost 10,000 visitors every day.
+        The best feature of the Essel World Amusement Theme Park is that it is open 365 days.
+        There are also avenues for shopping and food courts for people looking for a holistic experience.
+        Truly an adventure for anyone who visits, Essel World is another world indeed.\"
+        \n \n (Copyright text: Wikipedia)
+    </string>
+    <string name="parks_item1_information">
+        Address: Address: Global Pagoda Road, Gorai Island, Borivali West, Mumbai, Maharashtra 400092
+        \n \n Opened: 1989
+        \n \n Area: 26 ha
+        \n \n Hours: 10am-6:30pm
+        \n \n Phone: 022 6158 9888
+        \n \n Website: https://www.esselworld.in/travel/
+    </string>
+    <string name="parks_direction1" translatable="false">
+        "https://www.google.com/maps/dir//essel+world/@19.2018014,72.7410725,11z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3be7b411184f63b1:0xc4daa22087d4f46e!2m2!1d72.8050577!2d19.231546"
+    </string>
+
+    <string name="parks_item2_name">Hanging Garden</string>
+    <string name="parks_item2_description">
+        \"The Hanging Gardens, in Mumbai, also known as Pherozeshah Mehta Gardens, are terraced gardens perched at the top of Malabar Hill, on its western side, just opposite the Kamala Nehru Park.
+        They provide sunset views over the Arabian Sea and feature numerous hedges carved into the shapes of animals.
+        The Hanging Gardens spread out over a vast area that offers plenty of green space and trees amongst the heavily congested South Mumbai.
+        Along with numerous hedges carved into the shapes of animals, the gardens feature a prominent flower clock at its very center.
+        Another source of attraction for tourists is the ‘Old Woman’s Shoe’ or the ‘Boot House’ – a giant boot structure made out of stone and brick.
+        Children can climb into the house.\"
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="parks_item2_information">
+        Address: Ridge Rd, Simla Nagar, Malabar Hill, Mumbai, Maharashtra 400006
+        \n \n Hours: 5am-9pm
+    </string>
+    <string name="parks_direction2" translatable="false">
+        "https://www.google.com/maps/dir//hanging+garden+mumbai/@18.8915161,72.7964155,11.05z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3be7ce09e53e749f:0x94a70633cf948b9a!2m2!1d72.8049626!2d18.9568662"
+    </string>
+
+    <string name="parks_item3_name">Sanjay Gandhi National Park</string>
+    <string name="parks_item3_description">
+        \"Sanjay Gandhi National Park is a 87 km² protected area in Mumbai, Maharashtra State in India.
+        It was established in 1996 with headquarters at Borivali.
+        It is notable as one of the major national parks existing within a metropolis limit and is one of the most visited parks in the world.
+        \n \n The Sanjay Gandhi National Park area has a long written history dating back to the 4th century BCE.
+        In ancient India, Sopara and Kalyan were two ports in the vicinity that traded with ancient civilisations such as Greece and Mesopotamia.
+        The 45 km (28 mi) land route between these two ports was partially through this forest.
+        The Kanheri Caves in the centre of the park were an important Buddhist learning centre and pilgrimage site sculpted by Buddhist monks between the 9th and the 1st centuries BCE.
+        They were chiselled out of a massive basaltic rock outcropping.\"
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="parks_item3_information">
+        Address: Western Express Hwy, Borivali East, Mumbai, Maharashtra 400066
+        \n \n Area: 87 km²
+        \n \n Hours: Monday Closed ⋅ Tuesday to Sunday: 9am to 6pm
+        \n \n Established: 1996
+        \n \n Phone: 022 2886 0389
+        \n \n Website: https://sgnp.maharashtra.gov.in/Site/Home/Index.aspx
+    </string>
+    <string name="parks_direction3" translatable="false">
+        "https://www.google.com/maps/dir//sanjay+gandhi+national+park/@19.2412568,72.8821081,13.1z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3be7b0c88b1d3d9f:0x3621dd69daa8e2cf!2m2!1d72.9181784!2d19.2288092"
+    </string>
+    <!-- Text for Museums category-->
+    <string name="museums_item1_name">Mani Bhavan</string>
+    <string name="museums_item1_description">
+        \"Mani Bhavan, a modest two-storied building on the Laburnum Road in the comparatively quiet locality called Gamdevi, served as Gandhiji’s Bombay head-quarters for about seventeen long and eventful years (1917-1934).
+        It belonged to Shri Revashankar Jagjeevan Jhaveri, who was Gandhi’s friend and a host during that period.
+        It was from Mani Bhavan that Gandhi initiated Satyagraha against Rowlatt Act and propagated the causes of Swadeshi, Khadi and Hindu-Muslim Unity.
+        In 1955 the building was dedicated as a memorial to Gandhiji and to the very important activities of great significance he initiated from that place.
+        \n \n Once you enter the place, there is a library with the statue of the Mahatma where people offer their tributes.
+        Then a staircase dotted with Gandhi’s pictures depicting his life leads visitors to the first floor which has a big photo gallery where photographs of his childhood till his assassination are displayed along with press clippings. \"
+        \n \n (Copyright text: Wikipedia)
+    </string>
+    <string name="museums_item1_information">
+        Address: 19, Laburnum Raod, Gamdevi Mumbai-400 007, India
+        \n \n Contact: +022- 23805864
+        \n \n E-mail: info@gandhi-manibhavan.org
+        \n \n Website: www.gandhi-manibhavan.org
+        </string>
+    <string name="museums_direction1" translatable="false">
+        "https://www.google.com/maps/dir//Mani+Bhavan,+N+S+Patkar+Marg,+Gamdevi,+Mumbai,+Maharashtra+400007/@18.9575607,72.8092015,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3be7ce0ea3b62f27:0xc1be2d1906089032!2m2!1d72.8113902!2d18.9575607"
+    </string>
+
+    <!-- Text for Buildings category-->
+    <string name="bldgs_item1_name">Hutatma Chowk</string>
+    <string name="bldgs_item1_description">
+        \"Hutatma Chowk ("Martyrs' Square") is a square in South Mumbai, Maharashtra, India.
+        The square hosts Flora Fountain and was known by that name until 1961 when it was officially renamed in memory of the members of Samyukta Maharashtra Samiti, who lost their lives when police fired upon their peaceful demonstration in 1956.
+        A statue of a "Martyr with a Flame" stands next to Flora Fountain.
+        \n \n Hutatma Chowk is located in the busy financial district of Fort.
+        It derives its present name from an incident in 1956 when a peaceful demonstration by the Samyukta Maharashtra Samiti (United Maharashtra Committee) was fired upon by the police resulting in 106 deaths.
+        The incident was part of ongoing struggles of the Samyukta Maharashtra Samiti, amongst others, for the creation of the State of Maharashtra.
+        The shooting proved to be a major impetus for the creation of Maharashtra on 1 May 1960."\
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="bldgs_item1_information">
+        Address: Hutatma Chowk, Azad Maidan, Fort, Mumbai, Maharashtra 400001, India
+        </string>
+    <string name="bldgs_direction1" translatable="false">
+        "https://www.google.com/maps/dir//Hutatma+Chowk,+Mahatma+Gandhi+Road,+Kala+Ghoda,+Fort,+Mumbai,+Maharashtra+400001/@18.9326704,72.8315985,15z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3be7d1dcdd4c8f9b:0x3ff0865022f1e06d!2m2!1d72.8315985!2d18.9326704"
+    </string>
+
+    <string name="bldgs_item2_name">Taj Mahal Palace  and Tower</string>
+    <string name="bldgs_item2_description">
+        \"The Taj Mahal Palace Hotel is a heritage, five-star, luxury hotel built in the Saracenic Revival style in the Colaba area of Mumbai, Maharashtra, India, situated next to the Gateway of India.
+        Historically it was known as the "Taj Mahal Hotel" or simply "The Taj".
+        The hotel is named after the Taj Mahal, which is located in the city of Agra approximately 1,050 kilometres (650 mi) from Mumbai.
+        It has been considered one of the finest hotels in the East since the time of the British Raj.
+        The hotel was one of the main sites targeted in the 2008 Mumbai attacks.
+        Part of the Taj Hotels Resorts and Palaces, the hotel has 560 rooms and 44 suites and is considered the flagship property of the group; it employs 1,600 staff.
+        \n \n The hotel is made up of two different buildings: the Taj Mahal Palace and the Tower, which are historically and architecturally distinct from each other (the Taj Mahal Palace was built at the start of the twentieth century; the Tower was opened in 1973).
+        The hotel has a long and distinguished history, having received many notable guests, from presidents to captains of industry and stars of show business.
+        Ratanbai Petit, the second wife of the founder of Pakistan, Muhammad Ali Jinnah, lived in the hotel during her last days in 1929; her sister-in-law, Sylla Tata, had born into the Tata family, builders and owners of the hotel.
+        During World War I, the hotel was converted into a military hospital with 600 beds.
+        The hotel is notorious as the most visible target of the 2008 Mumbai attacks.\"
+        \n \n (Copyright text: Wikipedia)
+    </string>
+    <string name="bldgs_item2_information">
+        Address: Address: Apollo Bandar, Colaba, Mumbai, Maharashtra 400001
+        \n \n Phone: 022 6665 3366
+        \n \n Website: https://www.tajhotels.com/en-in/taj/taj-mahal-palace-mumbai/
+    </string>
+    <string name="bldgs_direction2" translatable="false">
+        "https://www.google.com/maps/dir//taj+mahal+palace+and+tower+mumbai/@18.9080571,72.8058765,11.31z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3be7d1c06fffffff:0xc0290485a4d73f57!2m2!1d72.833178!2d18.9216982"
+    </string>
+
+    <string name="bldgs_item3_name">David sassoon Library</string>
+    <string name="bldgs_item3_description">
+        "The David Sassoon Library and Reading Room is a famous library and heritage structure in Mumbai, India.
+        The idea for a library to be situated in the center of the city came from Albert Sassoon, son of the famous Baghdadi Jewish philanthropist, David Sassoon.
+        The building was designed by architects J. Campbell and G. E. Gosling, for the Scott McClelland and Company, at a cost of Rs. 125,000. David Sassoon donated Rs. 60,000, while the rest of the cost was borne by the Government of Bombay Presidency.
+        The library is located on Rampart Row, looking across the Kala Ghoda.
+        \n \n The European employees working in the Government Mint and the Dockyard in Mumbai started the Mechanics' Institution in 1847 to provide technical education to adults and to hold lectures.
+        They worked out of rented premises until they moved to their own building thanks to the generosity of Sir David Sassoon.
+        The building was called the David Sassoon Library and Reading Room.\"
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="bldgs_item3_information">
+        Address: 152, Mahatma Gandhi Road, Off David Sassoon, Library Marg, opposite Jehangir Art Gallery, Kala Ghoda, Fort, Mumbai, Maharashtra 400001
+        \n \n Phone:  022 2281 5189
+        \n \n Opening time: 9am to 8pm
+        \n \n Official website: https://davidsassoonlibrary.com/
+        \n \n Opened: 1870
+        \n \n Function: Library
+    </string>
+    <string name="bldgs_direction3" translatable="false">
+        "https://www.google.com/maps/dir//david+sassoon+library/@18.9277282,72.7610977,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3be7d1d998b45a1f:0xb5407002be39b5a1!2m2!1d72.8311382!2d18.9277413"
+    </string>
+
+    <string name="bldgs_item4_name">Pheonix Mall</string>
+    <string name="bldgs_item4_description">
+        "High Street Phoenix, formerly known as Phoenix Mall, is one of the largest shopping malls in India, situated in Lower Parel, Mumbai.
+        Its gross floor area is 3,300,000 square feet.
+        In addition to the mall, the compound hosts a five-star hotel, a multiplex, commercial space and a residential tower.
+        \n \n The mall consists of SkyZone and Grand Galleria. South Asia's largest 20 lane bowling concourse was first started here in the year 1996.
+        India's first Hyper market concept Big Bazaar was introduced in 2001 at High Street Phoenix.\"
+        \n \n (Copyright text: Wikipedia)
+    </string>
+    <string name="bldgs_item4_information">
+        Address: 462, Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra 400013
+        \n \n Hours: 11am-9:30pm
+        \n \n Owner: The Phoenix Mills Co. Ltd
+        \n \n Total retail floor area: 490,000 square feet (46,000 m2)
+        \n \n Opened: 1996
+        \n \n Website: https://phoenixpalladium.com/
+    </string>
+    <string name="bldgs_direction4" translatable="false">
+        "https://www.google.com/maps/dir//phoenix+mall+lower+parel/@18.9842448,72.7856662,13.07z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3be7ce8c6043c51b:0x469288721a1d52aa!2m2!1d72.8245993!2d18.994744"
+    </string>
+
+    <string name="title_activity_register" translatable="false">RegisterActivity</string>
+    <string name="title_activity_main" translatable="false">MainActivity</string>
+    <string name="tab_text_1" translatable="false">Tab 1</string>
+    <string name="tab_text_2" translatable="false">Tab 2</string>
+</resources>
